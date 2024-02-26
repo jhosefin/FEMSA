@@ -1,0 +1,12 @@
+{
+    "id":"25",
+    "name":"pikachu",
+    "base_experience":"112",
+    "height":"4",
+    "weight":"60",
+    "abilities": [
+        {
+        "name": "lightning-rod"
+        }
+    ]
+}
